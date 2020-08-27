@@ -31,7 +31,7 @@ Botinfo - Grabs info from discordbots.org about pinged bot
 
 Cat - Gives you a random cat image and fact
 
-Dog - Gives you a random cat image and fact
+Dog - Gives you a random dog image and fact
 
 Lizard - Gives you a random lizard image
 
